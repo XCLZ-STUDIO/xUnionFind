@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="xunionfind",
-    version="0.0.2",
+    version="0.0.3",
     description=("easy UnionFind model."),
     long_description="It's a UnionFind model.",
     author="W-Mai",
@@ -18,6 +18,6 @@ setup(
     url="https://github.com/XCLZ-STUDIO/xUnionFind",
     license="MIT Licence",
     packages=find_packages(),
-    install_requires=['schemdraw[svgmath]','pillow'],
+    install_requires=[],
 )
 
