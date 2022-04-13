@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="xunionfind",
-    version="0.0.1",
+    version="0.0.2",
     description=("easy UnionFind model."),
     long_description="It's a UnionFind model.",
     author="W-Mai",
